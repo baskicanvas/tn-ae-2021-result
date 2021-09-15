@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/baskicanvas/tn-ae-2021/static/css/main.1eb8f306.chunk.css",
+    "main.js": "/baskicanvas/tn-ae-2021/static/js/main.fe1685bc.chunk.js",
+    "main.js.map": "/baskicanvas/tn-ae-2021/static/js/main.fe1685bc.chunk.js.map",
+    "runtime-main.js": "/baskicanvas/tn-ae-2021/static/js/runtime-main.4ca8f6d7.js",
+    "runtime-main.js.map": "/baskicanvas/tn-ae-2021/static/js/runtime-main.4ca8f6d7.js.map",
+    "static/js/2.95af56d9.chunk.js": "/baskicanvas/tn-ae-2021/static/js/2.95af56d9.chunk.js",
+    "static/js/2.95af56d9.chunk.js.map": "/baskicanvas/tn-ae-2021/static/js/2.95af56d9.chunk.js.map",
+    "index.html": "/baskicanvas/tn-ae-2021/index.html",
+    "static/css/main.1eb8f306.chunk.css.map": "/baskicanvas/tn-ae-2021/static/css/main.1eb8f306.chunk.css.map",
+    "static/js/2.95af56d9.chunk.js.LICENSE.txt": "/baskicanvas/tn-ae-2021/static/js/2.95af56d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ca8f6d7.js",
+    "static/js/2.95af56d9.chunk.js",
+    "static/css/main.1eb8f306.chunk.css",
+    "static/js/main.fe1685bc.chunk.js"
+  ]
+}
